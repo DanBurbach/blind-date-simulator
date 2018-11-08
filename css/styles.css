@@ -1,8 +1,324 @@
+#offensive, #badend1, #badend2, #goodend1, #okend, #fireend, #trump, #drunk1, #trekend1{
+  display: none;
+}
+
+#trek, #trekend2, #ditchend1, #ditchend2, #badend3, #badend4 {
+  display: none;
+}
+.container {
+  margin-top: 30px;
+}
+.a, .b, .c, .d, .e, .f, .g, .h {
+display: none;
+}
+.i, .j, .k ,.l ,.m ,.n, .o, .p, .q ,.r ,.s ,.t ,.u, .v, .w ,.x ,.y .z ,.aa ,.bb ,{
+  display:none;
+}
+h6 {
+  margin-top: 380px;
+}
+.frame {
+  display: none;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+.textclass {
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+.textclass p{
+  font-size: 30px;
+}
+.frame p {
+  font-size: 30px;
+}
+body {
+  text-align: left;
+}
 .click:hover {
-  color: blue;
-  text-decoration: underline;
+  color: white;
+  text-decoration: italic;
   cursor:pointer;
 }
-#frame1, #frame2, #kickedout, #frame4, #frame5, #frame6, #frame7, #frame8, #frame9, #frame10, #frame11, #frame12, #frame13, #frame14, #frame15, #offensive, #success, #badEnding {
-  display: none;
+
+.jumbotron {
+  /* background-size: 100%; */
+  background-repeat: no-repeat;
+  background position: center;
+  padding: 0px;
+  padding-left: 0px;
+  margin-top: 0px;
+  margin: auto;
+  background-size: auto;
+  font-size: 64px;
+  color: white;
+  text-align: center;
+  text-shadow: 2px 2px #ff0000;
+}
+
+.ee {
+    color: white;
+    background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/3219/love-romantic-date-candlelight.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-position: center;
+    background-size: cover;
+    min-height: 500px;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.a { /*starter drink*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/162480/glasses-ice-cubes-illuminated-drink-162480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+
+.b { /*what's your name*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/243338/pexels-photo-243338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.textfield {
+  color:black;
+}
+.c { /*chit chat*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/630831/pexels-photo-630831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.d{ /*carrer quesiton*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/618550/pexels-photo-618550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.e { /*Ordering food */
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/1268551/pexels-photo-1268551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.f { /*wrong order*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/1399289/pexels-photo-1399289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.g { /* dates food looks good */
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/723031/pexels-photo-723031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.h{ /*waiting for date who went to the bathroom*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/908052/pexels-photo-908052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.i { /*date gets out cellphone*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/4831/hands-coffee-smartphone-technology.jpg?auto=compress&cs=tinysrgb&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.j { /*booger nose*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/395088/pexels-photo-395088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.k { /*dessert offer from waiter*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/1028714/pexels-photo-1028714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.l { /*what are you doing the rest of the night?*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/1236720/pexels-photo-1236720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.m { /*tablecloth catches fire*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/8504/wood-explosion-fire-hot.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.n { /*date wants to leave*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/1377054/pexels-photo-1377054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.o { /*check comes to table*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/332304/money-euro-coins-currency-332304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.p { /*you look drunk*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/206527/pexels-photo-206527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.q { /*discusted because you brought up Trump*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/1497856/pexels-photo-1497856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.r { /*date stands up to leave because of your behavior*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/3219/love-romantic-date-candlelight.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.s { /*your date loves Star Trek*/
+  color: white;
+  background-image: url(https://images.pexels.com/photos/573238/pexels-photo-573238.jpeg?auto=compress&cs=tinysrgb&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.t { /*good date, go over to watch Star Trek*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/1040158/pexels-photo-1040158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.u { /*loves trekkies*/
+  color: white;
+  background-image:url(http://ichef.bbci.co.uk/wwfeatures/wm/live/1280_640/images/live/p0/40/p8/p040p85c.jpg);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.u p {
+  background-color: black;
+  padding: 10px;
+  border-radius:10px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.v { /*good ending*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/842546/pexels-photo-842546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.w { /*ok ending, try for another date*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/1330808/pexels-photo-1330808.jpeg?auto=compress&cs=tinysrgb&h=350);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.x { /*bad ending 1, fighting the waiter*/
+  color: white;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/62376/pexels-photo-62376.jpeg?auto=compress&cs=tinysrgb&h=350);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.y { /*date upset, bad date, walks out*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/984954/pexels-photo-984954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.z { /*date says that it just wouldn't work out*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/215652/pexels-photo-215652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.aa { /*bad date2, she just leaves*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/169978/pexels-photo-169978.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.bb { /*dine and dash 1*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://images.pexels.com/photos/1058939/bird-stealing-milk-ometepe-1058939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.cc { /*run away, need to dine and dash*/
+  color: white;
+  background-image:linear-gradient(to right, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(https://storiescdn.hornet.com/wp-content/uploads/2018/05/04140142/worst-date-dine-and-dash-dater-feat-1000x500.jpg);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.dd { /*fire spreads to everything, night is ruined and so is the date*/
+  color: white;
+  background-image:linear-gradient(to bottom, rgba(0,0,0,1) 31%,rgba(0,0,0,1) 43%,rgba(0,0,0,1) 47%,rgba(0,0,0,0.5) 62%,rgba(0,0,0,0) 77%), url(http://media.nola.com/traffic/photo/pointe-fire-14jpg-5a9547f1f32675b5.jpg);
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+
+.text {
+  color: black;
+}
+
+button {
+  background-color: Transparent; /* Transparent Button */
+  border: none;
+  border-radius: 5px;
+  outline:none;
+  background-repeat: no-repeat;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+button:hover {
+  background-color: #3e8e41;
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+ul, li {
+  list-style-type: none;
 }
