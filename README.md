@@ -8,6 +8,12 @@ You'll need Git on your machine, or the ability to clone a repository from GitHu
 
 <h2>Installing</h2>
 git clone https://github.com/quinnrobepicodus/blind-date-simulator
+
+Open in any browser:
+https://blind-date-simulator.herokuapp.com/index.html
+
+(hosted by Heroku)
+
 <h1>blind-date-simulator</h1>
 This is a webpage that will allow the user to go on a blind date that you have been set up on.
 
@@ -20,13 +26,18 @@ This is a webpage that will allow the user to go on a blind date that you have b
 </ul>
 
 <h2>Known Bugs</h2> 
+
 They're no known bugs, to date. 
 
 <h2>Built With</h2>
+
 Bootstrap 3.3.7 - The web framework used
+
 jQuery 3.3.1 - Dependency Management
+
 Authors
 Quinn Miller, Dan Burbach, Nicole Cox, Torin Huff - Initial work
+
 License
 Copyright <2018> <Quinn Miller, Dan Burbach, Nicole Cox, Torin Huff>
 
