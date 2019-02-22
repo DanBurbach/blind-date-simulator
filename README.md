@@ -1,23 +1,28 @@
 <h2>Blind Date Simulator</h2>
 
 <h2>Getting Started</h2>
+
 The whole thing should be good to go if you clone it.
 
 <h2>Prerequisites</h2>
+
 You'll need Git on your machine, or the ability to clone a repository from GitHub
 
 <h2>Installing</h2>
+
 git clone https://github.com/quinnrobepicodus/blind-date-simulator
+
 
 Open in any browser:
 https://blind-date-simulator.herokuapp.com/index.html
-
 (hosted by Heroku)
 
 <h1>blind-date-simulator</h1>
+
 This is a webpage that will allow the user to go on a blind date that you have been set up on.
 
 <h2>Specifications</h2>
+
 <ul>
 <li>Program will take ypu through multiple scenarios depending on users asnwers</li>
 </li>Program will give three options or a "next" option to move forward.</li>
